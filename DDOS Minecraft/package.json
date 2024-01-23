@@ -1,0 +1,14 @@
+{
+  "name": "ddos-minecraft",
+  "version": "1.0.0",
+  "description": "DDOS Minecraft Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.5.1"
+  }
+}
