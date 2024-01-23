@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ecoledirecte.js": "^0.33.1"
+  },
+  "name": "moyenne-ecoledirecte",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Skaos",
+  "license": "ISC",
+  "description": ""
+}
