@@ -31,6 +31,8 @@ except:
     os.system('pip install matplotlib')
     print('\n✅ | Installation des librairies terminée')
 
+import matplotlib.pyplot as plt
+
 filename, intervalle, graph_unity, start_time = "test.csv", 10, 3600, '19/05 10'
 
 if not debug:
